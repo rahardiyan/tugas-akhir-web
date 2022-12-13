@@ -4,7 +4,7 @@
   "description": "This project was bootstrapped with [Create SI Perpustakaan ](https://github.com/facebook/create-react-app).",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
